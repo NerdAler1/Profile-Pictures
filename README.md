@@ -2,6 +2,8 @@
 
 A collection of themed profile pictures for different seasons and occasions.
 
+[![Update Profile Picture](https://github.com/NerdAler1/Profile-Pictures/actions/workflows/update-profile.yml/badge.svg)](https://github.com/NerdAler1/Profile-Pictures/actions/workflows/update-profile.yml)
+
 ## Current Profile Picture
 **Fall**: *Sep 1 - Oct 25*
 
