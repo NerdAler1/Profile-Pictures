@@ -22,7 +22,7 @@ A collection of themed profile pictures for different seasons and occasions.
 | Sep 1 - Oct 25 | Fall | ![](Seasons/fall.png) | `fall.png` |
 | Oct 26 - Nov 1 | Halloween | ![](Holidays/halloween.png) | `halloween.png` |
 | Nov 2 - Nov 19 | Fall | ![](Seasons/fall.png) | `fall.png` |
-| Nov 20 - Nov 30 | Thanksgiving | ![]() | `thankgiving.png`|
+| Nov 20 - Nov 30 | Thanksgiving | ![]() | `thanksgiving.png`|
 | Dec 1 - 29 | Christmas | ![](Holidays/christmas.png) | `christmas.png` | # Yes I like 
 
 Yes I know christmas is super long, I like being in the holiday mood.
